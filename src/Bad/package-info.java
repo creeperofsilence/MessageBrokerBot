@@ -1,8 +1,0 @@
-/**
- * 
- */
-/**
- * @author test
- *
- */
-package Bad;
