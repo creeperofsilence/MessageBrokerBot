@@ -10,4 +10,8 @@ public class App
     {
         System.out.println( "Hello World!" );
     }
+    
+    public boolean RunMethod(String str) {
+    	return str.equals("Test");
+    }
 }
